@@ -21,7 +21,7 @@ int contar(){
         }
 
         for(int u=cont;u<aux;u++){
-            cout<<v[cont]<<" ";
+            cout<<v[u]<<" ";
 
         }
         cont=aux;
